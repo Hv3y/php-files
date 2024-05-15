@@ -1,0 +1,69 @@
+Name: lesedi
+		  Surname: seema
+		  Demographic: <18
+		  message: what the fuck bruv
+		  Diet: NonName: lesedi
+		  Surname: seema
+		  Demographic: >18
+		  message: lesedi is over i8
+		  Diet: VeganName: 
+		  Surname: 
+		  Demographic: 
+		  message: 
+		  Diet: HalalName: 
+		  Surname: 
+		  Demographic: 
+		  message: 
+		  Diet: HalalName: sfasfa
+		  Surname: safasf
+		  Demographic: <18
+		  message: safasfas
+		  Diet: no dairyName: 
+		  Surname: 
+		  Demographic: 
+		  message: 
+		  Diet: HalalName: wetwet
+		  Surname: wetwetw
+		  Demographic: <18
+		  message: wetwet
+		  Diet: NonName: sdsd
+		  Surname: sdfsd
+		  Demographic: <18
+		  message: sdfsdfsdfsdfsdf
+		  Diet: HalalName: lefesf
+		  Surname: sdfsdgsdg
+		  Demographic: <18
+		  message: sfgsdgsdgsdfsdfsdfs
+		  Diet: no dairyName: 
+		  Surname: 
+		  Demographic: >18
+		  message: 
+		  Diet: HalalName: 
+		  Surname: 
+		  Demographic: <18
+		  message: 
+		  Diet: HalalName: dfddfdfg
+		  Surname: dfgdfgdfg
+		  Demographic: <18
+		  message: dfgdfgdfg
+		  Diet: VeganName: dfddfdfg
+		  Surname: dfgdfgdfg
+		  Demographic: <18
+		  message: dfgdfgdfg
+		  Diet: VeganName: gdfgd
+		  Surname: sdfsdf
+		  Demographic: <18
+		  message: sdfsdf
+		  Diet: HalalName: 
+		  Surname: 
+		  Demographic: >18
+		  message: 
+		  Diet: HalalName: 
+		  Surname: 
+		  Demographic: 
+		  message: 
+		  Diet: HalalName: 
+		  Surname: 
+		  Demographic: <18
+		  message: 
+		  Diet: Halal
